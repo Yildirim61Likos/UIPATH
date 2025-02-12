@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="FmYxJtiv3kWAf_j8NB2M5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFtSURBVFhH3Za9SgNBFIUPNomFrbU+QYqLpXaWqYSI2Ck+iIIEGwtfwEotrEXBPIBYiKCCnX+gNv7FRqsjR3eR7J1Vg2YGHPiKvefOmQOZ7F6QREpcITauEBtXiI0rxObzAVYhbIKwRcLWCNslbI+wI8LOCXsg7JGwJ8JYgjT13Gd7tFce8pKnvHVGpTMArEbYWcCwVyhc7SMArJ+wq0BTr7kgrKoAUwExFg0FWA4IsVhRgJ2AEIttBdBNLQrlDI6Tswtk34jXuudQAW4CQjlDdb6vg1NybM7r3XGtAM8BoZw8QL42W+Rw3ff9jLYCFItfUwyg9fJKNlfJgVHf/w1/EyBft3fkzHxX9+OfBPjlT5D8Eib/GyZ/EaV8FW+l/hgtKcB0QIjFpAJoILkMiL0mG0jSjGQ6PBvJOofSBmFNwjYIaxG2T9hJYShtBwxz8qFUvdpznHnIaz3z1hlVPxUnwhVi4wqxcYXYuEJs3gAwGPdNfuPsVQAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Channel dashboard - YouTube Studio' /&gt;" Title="Channel dashboard - YouTube Studio" Url="https://studio.youtube.com/channel/UCBZKRN6OfdIpTffE580FdhQ" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="f37ca05dee002e0fecbb70222aaeee3b.jpg" xmlns="">0MZjjooIVbUuVubS3MfqTqQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Channel dashboard - YouTube Studio",
+  "Type": "App",
+  "Id": "Qc08q5OXWEKHWizpVCEk5g",
+  "Reference": "_xzZNG-5ZEagoZt1oN-7jA/Qc08q5OXWEKHWizpVCEk5g",
+  "Created": "2025-02-12T06:12:56.4878337Z",
+  "Updated": "2025-02-12T06:12:56.4878337Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

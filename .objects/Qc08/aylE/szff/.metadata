@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Channel dashboard - YouTube Studio",
+  "Type": "Screen",
+  "Id": "szffkxVbB0iN_WGfRoouQA",
+  "Reference": "_xzZNG-5ZEagoZt1oN-7jA/szffkxVbB0iN_WGfRoouQA",
+  "ParentRef": "_xzZNG-5ZEagoZt1oN-7jA/aylErvgEBkSIrr-PijAv2w",
+  "Created": "2025-02-12T06:12:56.6406003Z",
+  "Updated": "2025-02-12T06:12:56.6406003Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
